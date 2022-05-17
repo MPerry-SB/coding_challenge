@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-require 'pry'
 ############################################################
 #
 # Download this file on your mac, and change the permission
